@@ -1,0 +1,31 @@
+{
+  "theme": "acessórios essenciais para eletrodomésticos de cozinha",
+  "categories": [
+    {
+      "value": "acess-rios-essenciais-para-eletrodom-sticos-de-cozinha",
+      "label": "Acessórios essenciais para eletrodomésticos de cozinha"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Acessórios essenciais para eletrodomésticos de cozinha"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-acess-rios-essenciais-para-eletrodom-sticos-de-cozinha-1.jpg",
+      "label": "Acessórios essenciais para eletrodomésticos de cozinha Premium"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-eletrodom-sticos-de-cozinha-2.jpg",
+      "label": "Acessórios essenciais para eletrodomésticos de cozinha Custo-Benefício"
+    },
+    {
+      "value": "/recommended-acess-rios-essenciais-para-eletrodom-sticos-de-cozinha-3.jpg",
+      "label": "Melhores Acessórios essenciais para eletrodomésticos de cozinha"
+    }
+  ]
+}
