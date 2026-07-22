@@ -2,9 +2,9 @@ backend:
   name: github
   repo: efeitodigitalcontato-ops/afiliados-blog-acessrios-essenciais-para-eletrodomsticos-de-cozinha
   branch: main
-  site_domain: afiliados-blog-acessrios-essenciais-para-eletrodomsticos-de-cozinha.vercel.app
+  site_domain: afiliados-blog-acessrios-essenciais-para-e-efeitodigitalcontato.vercel.app
   # Usamos a API própria e segura que criamos para o seu domínio na Vercel
-  base_url: https://inteligenciajovem.com.br
+  base_url: https://afiliados-blog-acessrios-essenciais-para-e-efeitodigitalcontato.vercel.app
   auth_endpoint: api/auth
 
 # Permite rodar o CMS localmente com 'npx decap-cms-proxy-server'
